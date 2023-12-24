@@ -1,0 +1,37 @@
+.iconn{color:black}
+.fill{font-size:13px}
+.First, .Middle ,.Surname,.Date{font-size:15px;}
+.F_input, .M_input ,.D_input,.Su_input{border:none;
+background:whitesmoke;
+height:50px;
+margin-top:-5px;
+font-size:14px;
+border-radius: 10px;}
+.Male,.Female{width:200px;
+padding-top:10px;
+padding-bottom:10px;
+border:none;
+border-radius: 7px;
+background-color: whitesmoke;}
+.Gen{background:var(--background);
+color:white;}
+.Next{text-decoration: none;
+color:white;
+background-color:rgb(24, 226, 101);
+opacity: 60%;}
+
+.grey{color:grey}
+.green{color:rgb(24, 226, 101);}
+.Size{font-size: 13px;}
+.NextB{background:var(--background);
+color:white
+;text-decoration: none;}
+.iconn:hover{color:black}
+.ic{margin-left:-130px}
+.Female{margin-left:100px}
+.Next:hover{color:white}
+
+:root{ 
+    --background:#00B875;
+    --Second:rgb(222, 238, 222);
+}

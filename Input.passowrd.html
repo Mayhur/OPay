@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<style>
+body{background:red}
+.Icon{height:30px;
+cursor: pointer;
+}
+.background{background:white;
+width:300px;
+padding-left:30px;
+padding-bottom :20px;
+border-radius:10px;
+display:flex;}
+input{border:none;
+outline:0}
+</style>
+<div class="background">
+    <input type="password" class="Password" placeholder="Enter Password">
+    <img src="/2540385-200.png" class="Icon">
+
+</div>
+
+<script>
+let Icon= document.querySelector('.Icon');
+let Password=document.querySelector('.Password');
+Icon.onclick=function(){
+    if(Password.type == 'password'){
+        Password.type ='text'
+        Icon.src="/2540385-200.png"
+    }else if(Password.type =='text'){
+        Password.type = 'password'
+        Icon.src="/Open.png"
+    }
+}
+</script>
+</body>
+</html>

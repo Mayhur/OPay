@@ -1,0 +1,143 @@
+.Elips{border:1px solid;
+    padding-left: 4px;
+    padding-right:4px;
+    padding-top:3px;
+    padding-bottom:3px;
+    font-size:18px
+}
+.Coin{width:30px}
+.Cash{color:var(--background);
+font-size:33px;
+font-weight: bolder;
+margin-top:-7px
+}
+.kobo{font-size:20px;
+margin-top:10px;
+color:var(--background);
+font-weight:bolder}
+:root{ 
+    --background:#00B875;
+    --Second:rgb(222, 238, 222);
+}
+.Voucher{color:var(--background);
+font-size:27px;
+font-weight:bolder;}
+.Right{margin-top:13px;
+margin-left:15px}
+
+.footer{
+position:fixed;
+top:660px;
+background:white;
+width:100%}
+
+    
+
+  
+    .Bonus{border-radius:10px;
+    height:75px;
+background:white;
+margin-top:-90px
+}
+    .Back{background:white;
+    height:500px;
+    margin-top:40px;
+    }
+    .Check{font-size:30px;
+    color:var(--background);
+background:#d7fcea;
+padding-left:15px;
+padding-right:15px;
+padding-top:10px;
+height:50px;
+border-radius:15px;
+font-size:25px
+
+}
+.button{background: var(--background);
+color:white;
+height:40px;
+font-weight:bold;
+margin-left:50px
+}
+.First_section{background:#d7fcea;
+height:290px}
+.Daily2{background:whitesmoke;
+height:390px;
+margin-top:-40px
+}
+.Signal{color:var(--background);
+font-size:12px;
+margin-left:20px
+}
+.Mobile{font-size:40px}
+.Green{color:var(--background);
+font-weight:bold
+}
+.Coins{width:25px}
+.Glo{margin-top:-55px;
+margin-left:80px;
+font-size:20px}
+.Go{margin-top:-125px;
+margin-left:320px}
+.Cd{height:110px;
+border-radius:15px;
+}
+.margin{margin-top:20px;
+}
+.margin1{margin-top:10px;}
+.Chevron{margin-top:12px;
+margin-left:10px;
+color:var(--background)}
+.p{color: var(--background);}
+.View{margin-left:40%;}
+.Last{background:#d7fcea;
+height:200px;
+margin-bottom:100px
+}
+.pill{background:#5ad69c}
+.Buy{font-size:17px;
+color:grey;}
+.Earn{font-size:17px;
+color:grey}
+.backk{color:rgb(4, 4, 106);
+font-weight:bold
+}
+.Naira{color:var(--background);
+font-size:25px;
+font-weight:bold
+}
+
+.Home{text-decoration: var(--background);
+    color:grey}
+    .Home:hover{color:grey}
+    .Gem{font-size:26px;
+    color:var(--background);}
+    .Rewards{text-decoration: none;
+    color:var(--background)}
+    .Line{font-size:26px;
+    color:grey}
+    .Finance{text-decoration: none;
+    color:grey}
+    .Card{font-size:26px;
+    color:grey;}
+    .Cards{text-decoration: none;
+    color:grey}
+    .Face{color:grey;}
+    .Facee{color:grey;
+    text-decoration: none;}
+    .Finance:hover{color:grey}
+    .Facee:hover{color:grey}
+    .Cards:hover{color:grey}
+    .Rewards:hover{color:grey}
+    .Gem,.Line,.Card,.Face{cursor: pointer;}
+    .me{font-size:26px}
+    .O{font-size:20px;
+        color:grey
+        }
+        .Bo{border:2px solid grey;
+
+            width:35px;
+            padding-top:3px;
+            padding-bottom:3px;
+        }

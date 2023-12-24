@@ -1,0 +1,68 @@
+.logo{height:60px}
+.card{border-radius:10px;
+height:30px;
+background:rgb(219, 245, 219)}
+.Input{display: flex;
+    background:whitesmoke;
+    padding-left:10px;
+    border-radius:10px
+    }
+    :root{ 
+        --background:#00B875;
+        --Second:rgb(222, 238, 222);
+    }
+    .Confirm a{color:white;
+    text-decoration: none;}
+    .p{outline:none;
+        border:none;
+        background:whitesmoke;
+        width:100%;
+        border-radius: 10px;
+        }
+        .img1{height:20px;
+        width:30px;
+        margin-right:3px
+        }
+        .three{margin-top:15px}
+        .hori{border:1px solid grey;
+            height:15px;
+            margin-top:20px;
+            margin-left:10px;
+            margin-right:10px}   
+            .iconn{color:black}
+            .check{display:flex;
+                margin-top:100px
+            }
+            .grey{color:grey;
+                font-size:13px}
+                .icon{font-size: 15px;
+                    margin-top:5px;
+                    color:grey
+                }
+
+                .color{color:var(--background)}
+                .green{color:var(--background)}
+            .AA{background:red}
+                .Next{background-color:var(--background);
+                    opacity: 50%;
+                color:white;
+            padding-left:190px;
+        padding-right: 180px;
+    padding-top:20px;
+padding-bottom:20px;
+border-radius:10px;
+text-decoration: none;}
+.Opa{opacity:100%;}
+.Next:hover{color:white}
+.iconn:hover{color:black}
+                .Confirm1{background-color:rgb(24, 226, 101);
+                    opacity: 100%;
+                    color:white;
+                    width:330px
+                }
+                .CBN{height:25px}
+                .NDIC{height:70px;
+                margin-top:-20px;
+            margin-left:-20px}
+                .paragraphs{display: flex;}
+                .pp{font-size:13px}.solid:hover{color:black}

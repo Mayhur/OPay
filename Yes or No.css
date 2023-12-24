@@ -1,0 +1,33 @@
+.iconn{color:black}
+.box2{background:var(--background);
+width:40px;
+height:30px;
+border-radius:3px
+}
+.down{color:white;
+font-size:18px}
+.box{background:#c0fee7;
+width:60px;
+padding-left:20px;
+padding-top:20px;
+padding-right:65px;
+padding-bottom:20px;
+border-radius:10px;
+margin-left: 35%;}
+.Yes{background:var(--background);
+text-decoration: none;
+color: white;
+padding:13px 80px 13px 80px;
+border-radius:5px}
+.No{border:1px solid grey;
+    text-decoration: none;
+    color: black;
+    padding:13px 80px 13px 80px;
+    border-radius:5px}
+    .Yes:hover{color:white}
+    .No:hover{color:black}
+    .Options{margin-top:200px}
+    :root{ 
+        --background:#00B875;
+        --Second:rgb(222, 238, 222);
+    }

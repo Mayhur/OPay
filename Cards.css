@@ -1,0 +1,186 @@
+.space{justify-content: space-between;}
+.h1{font-weight:bolder;
+    font-size:44px
+}
+.Question{color:#00B875;
+font-size:26px
+}
+:root{ 
+    --background:#00B875;
+    --Second:rgb(222, 238, 222);
+}
+.Cardss{margin-left:100px}
+.Physical{font-size:20px;
+color:grey
+}
+.Physical:hover{cursor: pointer;}
+.Virtual{font-size:20px;
+font-weight: bolder;
+
+}
+.Virtual:hover{cursor: pointer;}
+.Line{border-bottom: 5px solid black;
+width:35px;
+height:1px;
+margin-left:45px;
+border-radius:10px}
+.Line1{border-bottom: 5px solid black;
+    width:35px;
+    height:1px;
+    margin-left:60px;
+    border-radius:10px;
+display: none;
+}
+.Bolt{font-size:40px;
+color:#00B875;
+background:#EBF9F5;
+padding-left:7px;
+padding-right:8px;
+padding-top:10px;
+padding-bottom:10px;
+}
+.Instant{font-size:23px;
+font-weight:bold
+}
+.Apply{font-size:17px;
+font-weight:normal;
+color:grey
+}
+.Instantly{font-size:17px;
+font-weight:normal;
+color:#00B875;
+}
+.Wallet{font-size:30px;
+    color:#00B875;
+    background:#EBF9F5;
+    padding-left:12px;
+    padding-right:12px;
+    padding-top:15px;
+    padding-bottom:15px;}
+    .Win{font-size:23px;
+    font-weight:bold;
+    margin-bottom:300px
+    }
+
+    .Opay{color:#00B875}
+    .Transact{font-size:17px;
+    font-weight: normal;
+    color:grey
+    }
+    .Square{font-size:25px;
+    color:#00B875}
+    .Square:hover{cursor: pointer;}
+    .Condi{font-size:17px;
+color:grey;
+
+    }
+    .Terms{color:#00B875}
+    .bt{background: #00B875;
+    color:white;
+width:370px;
+padding-top:20px;
+padding-bottom:20px;
+font-size:20px;
+font-weight: bold;
+}
+
+
+.Normal{font-weight:normal;
+color:grey}
+.Abnorm{font-weight:bold;
+color:black}
+
+
+
+
+
+.Home{text-decoration: var(--background);
+    color:grey}
+    .Home:hover{color:grey}
+    .Gem{font-size:26px;
+    color:grey}
+    .Rewards{text-decoration: none;
+    color:grey}
+    .Lines{font-size:26px;
+    color:grey}
+    .Finance{text-decoration: none;
+    color:grey}
+    .Card{font-size:26px;
+    color:#00B875}
+    .Cards{text-decoration: none;
+    color:#00B875}
+    .Face{color:grey;}
+    .Facee{color:grey;
+    text-decoration: none;}
+    .Finance:hover{color:grey}
+    .Facee:hover{color:grey}
+    .Cards:hover{color:grey}
+    .Rewards:hover{color:grey}
+    .Gem,.Line,.Card,.Face{cursor: pointer;}
+    .me{font-size:26px}
+    .O{font-size:20px;
+        color:grey
+        }
+        .Bo{border:2px solid grey;
+
+            width:35px;
+            padding-top:3px;
+            padding-bottom:3px;
+        }
+        .Last{position: fixed;
+        top:520px;
+    background:white;
+width:100%
+}
+.bt:hover{color:white}
+
+
+
+
+
+
+.Free{color:#00B875;
+background:#EBF9F5;
+font-size:26px;
+padding-left:13px;
+padding-right:13px;
+padding-top:13px;
+padding-bottom:13px;
+
+}
+
+.App{font-size:23px;
+font-weight:bold;
+color:black
+}
+.Zero{color:#00B875}
+.grey{color:grey}
+.Dollar{color:#00B875;
+    background:#EBF9F5;
+    font-size:26px;
+    padding-left:13px;
+    padding-right:13px;
+    padding-top:13px;
+    padding-bottom:13px;
+    
+    }
+    .k{font-size:23px;
+    font-weight:bold
+    }
+
+    .Rest{font-size:15px;
+    font-weight:normal}
+    .Shield{color:#00B875;
+        background:#EBF9F5;
+        font-size:29px;
+        padding-left:13px;
+        padding-right:13px;
+        padding-top:13px;
+        padding-bottom:13px;
+        }
+        .Sec{font-size:23px;
+        font-weight:bold}
+        .Rest{color:grey}
+        .Lic{color:grey}
+        .Seci{margin-bottom:400px}
+        .Hidden{display:none}

@@ -1,0 +1,203 @@
+.FirstSection{background:var(--background);
+height:340px
+}
+
+:root{ 
+    --background:#00B875;
+    --Second:rgb(222, 238, 222);
+}
+.Profile{width:60px;
+height:60px;
+object-fit: cover;
+}
+.Local{color:white;
+font-weight:bold;
+font-size:24px
+}
+.Gear{color:white;
+font-size:30px;
+margin-left:150px;
+margin-top:20px
+}
+.Balance{color:white;
+font-size:22px
+}
+.Slash{font-size:19px}
+.Asteric{color:white;
+font-weight:bolder;
+font-size:43px
+}
+.Pill{background:#E1F5EA;
+
+}
+.Back{color:grey}
+.BVN{background:#E1F5EA;
+margin-top:-50px;
+height:90px;
+border-radius:15px
+}
+.Go{background: var(--background);
+color:white;
+font-size:20px;
+margin-left:60px;
+margin-top:15px
+}
+.text{color:#00B875;
+font-size:16px;
+line-height: 20px;
+}
+.Second{background:whitesmoke;
+padding-top:70px;
+margin-top:-40px;
+height:500px
+}
+.Third{
+    background:whitesmoke;
+
+}
+.All{height:400px}
+.Pad,.Speed{font-size:25px;
+COLOR:var(--background)
+}
+.Right{margin-top:6px;
+    margin-left:140px;
+}
+.Para{font-size:20px;
+    line-height: 17px;
+}
+.View{font-size:17px;
+color:grey}
+.Speed{font-size:22px;}
+.Right2{margin-top:6px;
+    margin-left:95px;
+}
+.CashBack{color: #FE9206;
+}
+.Bank{color:var(--background);
+font-size:20px}
+.Right3{margin-top:6px;
+margin-left:135px}
+.Ban{font-size:20px;
+margin-top:-10px;
+line-height: 25px;
+}
+.Pay{font-size:17px;
+color:grey}
+.Bolt{color:var(--background);
+font-size:30px}
+.Payme{font-size:20px;
+line-height: 25px;
+margin-top:-5px}
+.Receive{font-size:17px;
+color:grey}
+.Right4{margin-top:6px;
+margin-left:23px}
+.id{width:28px;
+margin-top:18px
+}
+.Right5{margin-left:55px;
+margin-top:6px
+}
+.payid{font-size: 20px;
+    line-height: 19px;
+}
+.Generate{font-size: 17px;
+    color:grey;}
+    .Account{height:70px}
+    .ACC{height:70px}
+    .Owo{height:70px}
+    .IDD{height:80px}
+    .Shield{font-size:30px;
+    color:var(--background)
+    }
+    .Call{width:33px}
+    .head{width:30px}
+    .Celeb{width:33px}
+    .Rate{width:30px}
+    .Right6{margin-top:2px;
+    margin-left:177px
+    }
+    .Right7{margin-top:2px;
+        margin-left:208px
+        }
+        .Right8{margin-top:2px;
+            margin-left:160px
+            }
+            .Right9{margin-top:2px;
+                margin-left:209px
+                }
+                .Righty{margin-top:2px;
+                    margin-left:147px}
+                    .CBN{height:40px}
+                    .NDIC{height:90px;
+                    margin-top:-20px;
+                    margin-left:-30px
+                    }
+.Licensed-Footer {margin-top:20px}
+.Logo{margin-top:5px}
+.CB{color:rgb(5, 5, 102);
+font-weight:bold;
+font-size:19px
+}
+.footer{
+    position:fixed;
+    top:680px;
+    width:100%;
+    background:white
+}
+.Naira{font-size:21px;
+color:white;
+font-weight:bolder;
+margin-top:3px
+}
+.K1{color:#FE9206;
+display: none;
+}
+.Moneyy{display:none;
+margin-bottom:30px
+}
+.Money{font-size:23px;
+    color:white;
+    font-weight:bolder
+}
+.kobo{font-size:21px;
+    color:white;
+    margin-top:3px;
+    font-weight:bolder
+}
+.Slash:hover{cursor: pointer;}
+
+
+.Home{text-decoration: var(--background);
+    color:grey}
+    .Home:hover{color:grey}
+    .Gem{font-size:26px;
+    color:grey}
+    .Rewards{text-decoration: none;
+    color:grey}
+    .Lines{font-size:26px;
+    color:grey}
+    .Finance{text-decoration: none;
+    color:grey}
+    .Card{font-size:26px;
+    color:grey}
+    .Cards{text-decoration: none;
+    color:grey}
+    .Face{color:#00B875;}
+    .Facee{color:#00B875;
+    text-decoration: none;}
+    .Finance:hover{color:grey}
+    .Facee:hover{color:grey}
+    .Cards:hover{color:grey}
+    .Rewards:hover{color:grey}
+    .Gem,.Line,.Card,.Face{cursor: pointer;}
+    .me{font-size:26px}
+    .O{font-size:20px;
+        color:grey
+        }
+        .Bo{border:2px solid grey;
+
+            width:35px;
+            padding-top:3px;
+            padding-bottom:3px;
+        }

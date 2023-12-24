@@ -1,0 +1,57 @@
+
+a{color:white;
+    text-decoration:none}
+    a:hover{color:white}
+.iconn{color:black}
+.iconn:hover{color:black}
+.Veri{font-size:14px;
+color:grey}
+input{width:35px;
+height:40px;
+border:none;
+background:whitesmoke;
+font-size:20px
+}
+.card{height:100px;
+border:none;
+background:var(--background);
+color:white;
+display:none
+}
+.cancel{margin-top:-9px}
+.cancel:hover{cursor: pointer;}
+.Next{background:var(--background);
+    opacity: 50%;
+    color:white;
+    width:300px;
+border:none;
+padding-top:15px;
+padding-bottom:15px;
+font-size:15px;
+}.Next a{color:white;
+text-decoration:none;
+font-size:15px;}
+.Next1{background:var(--background);
+    color:white;
+    width:300px;
+border:none;
+padding-top:15px;
+padding-bottom:15px;
+}
+.CBN{height:25px}
+
+.NDIC{height:70px;
+margin-top:-20px;
+margin-left:-20px}
+
+.paragraphs{display: flex;}
+.pp{font-size:13px}
+.Resend{font-size:13px;
+margin-left:200px
+}
+.margin{margin-top:200px}
+.marginl{margin-top:90px}
+:root{ 
+    --background:#00B875;
+    --Second:rgb(222, 238, 222);
+}

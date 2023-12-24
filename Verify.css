@@ -1,0 +1,45 @@
+.iconn{color:black}
+.iconn:hover{color:black}
+.Verify{font-size: 13px;}
+input{width:35px;
+    height:40px;
+    border:1px solid rgb(219, 216, 216);
+    background:whitesmoke;
+    font-size:20px;}
+    .cardd{border:none;
+    background:var(--background);
+height:80px}
+.Opay{color:white;
+font-size:13px}
+.Receive{font-size:14px}
+.All{display:none}
+.cancel{color:white}
+.cancel:hover{cursor: pointer;}
+.Very{background:var(--background);
+    opacity: 60%;
+color:white;
+text-decoration: none;
+padding-left:200px ;
+padding-top: 13px;
+padding-bottom:13px ;
+padding-right:200px ;
+border-radius: 7px;
+}
+.Link{margin-top:290px}
+.Link1{margin-top:210px}
+.Very:hover{color:white}
+.color{background:var(--background);
+
+    color:white;
+    text-decoration: none;
+    padding-left:200px ;
+    padding-top: 13px;
+    padding-bottom:13px ;
+    padding-right:200px ;
+    border-radius: 7px;}
+    .color:hover{color:white}
+
+    :root{ 
+        --background:#00B875;
+        --Second:rgb(222, 238, 222);
+    }

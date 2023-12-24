@@ -1,0 +1,23 @@
+:root{ 
+    --background:#00B875;
+    --Second:rgb(222, 238, 222);
+}
+body{background-color:#00ff88}
+.Opay{width:90px;
+background:white;
+}
+.Top{margin-top:50%}
+.purple{color:rgb(2, 2, 66)}
+.CBN{width:70px}
+.NDIC{Width:200px;
+    height:130px;
+margin-top:-85px;
+margin-left:210px
+}
+.Licensed{color:rgb(2, 2, 66);
+margin-top:-45px;
+margin-left:60px;
+font-size:12px;
+font-weight: bolder;
+}
+.bottom{margin-left:33px}

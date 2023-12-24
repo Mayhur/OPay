@@ -1,0 +1,234 @@
+.Face{font-size: 25px;}
+.Name{font-size:22px}
+.icons{margin-left:120px}
+.Phone{font-size:25px}
+.Scan{width:30px}
+.Bell{font-size:25px}
+:root{ 
+    --background:#00B875;
+    --Second:rgb(222, 238, 222);
+}
+.background{background:var(--background);
+height:90px;
+border-radius:8px;
+border:none;
+padding-bottom:90px}
+.secure{color:white;
+font-size:15px;
+margin-top:2px}
+.Available{color:white;
+font-size:13px}
+.slash{color:white;
+font-size:14px;
+margin-top:3px;
+margin-left:5px}
+.slash:hover{cursor: pointer;}
+.History{color:white;
+font-size:13px;
+margin-left:130px}
+.right{color:white;
+font-size:10px;
+margin-top:6px;
+margin-left:18px}
+.Input{background: var(--background);
+border: none;
+color:white;
+font-size:20px;
+}
+.Add{font-size:13px;
+    color:var(--background);
+    margin-left:290px;
+    margin-top:-54px
+}
+.Add:hover{color: var(--background);}
+.Input{font-weight:bolder;
+width:140px}
+.Options{height:80px; 
+background:white;
+border-radius:90px} 
+.radius{border-radius:12px} 
+.User{ background:var(--background);
+padding:5px 8px 5px 8px;
+font-size:10px;
+color:white;
+border-radius:5px}
+
+.Opay{background:var(--Second);
+width:40px;
+padding-top:5px;
+padding-bottom:10px;
+border-radius:10px
+}
+.Bank{background:var(--Second);
+    width:40px;
+    padding-top:5px;
+    padding-bottom:10px;
+    border-radius:10px
+    }
+    .bank{ 
+        padding:5px 9px 5px 9px;
+        font-size:20px;
+    color:var(--background);
+        border-radius:5px}
+
+        .Withdraw{background:var(--Second);
+            width:40px;
+            padding-top:5px;
+            padding-bottom:10px;
+            border-radius:10px
+            }
+            .withdraw{ background:var(--background);
+                padding:5px 8px 5px 8px;
+                font-size:10px;
+                color:white;
+                border-radius:5px}
+    body{background:whitesmoke}
+    .Second{height:170px;
+    border-radius:12px
+    }
+    .circle{background:var(--Second);
+        padding-top:5px;
+        padding-bottom:5px;
+        padding-left:0px;
+        padding-right:0px;
+        width:50px
+    }
+    .mobile{color:var(--background);
+    font-size:25px}
+    .Up{color:white;
+    background:red;}
+    .Data{background:var(--Second);
+        padding-top:7px;
+        padding-bottom:5px;
+        padding-left:10px;
+        padding-right:10px;
+        width:50px
+    }
+    .Signal{color:var(--background);}
+    .Up{color:white;
+    background:red;}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 
+}
+.Betting{background:var(--Second);
+    padding-top:7px;
+    padding-bottom:5px;
+    padding-left:10px;
+    padding-right:10px;
+    width:50px
+}
+.Ball{color:var(--background);}
+
+.TV{background:var(--Second);
+    padding-top:7px;
+    padding-bottom:5px;
+    padding-left:0px;
+    padding-right:5px;
+    width:50px
+}
+.Television{color:var(--background);}
+.Wealth{background:var(--Second);
+    padding-top:7px;
+    padding-bottom:5px;
+    padding-left:0px;
+    padding-right:5px;
+    width:50px
+}
+.W{color:var(--background);
+font-size:20px}
+
+.Refer{background:var(--Second);
+    padding-top:7px;
+    padding-bottom:5px;
+    padding-left:0px;
+    padding-right:5px;
+    width:50px
+}
+.R{color:var(--background);
+font-size:20px}
+
+.Play{background:var(--Second);
+    padding-top:7px;
+    padding-bottom:5px;
+    padding-left:0px;
+    padding-right:5px;
+    width:50px
+}
+.P{color:var(--background);
+font-size:20px}
+
+.more{background:var(--Second);
+    padding-top:7px;
+    padding-bottom:5px;
+    padding-left:0px;
+    padding-right:5px;
+    width:50px
+}
+.tv, .Cap, .Bulb{color:var(--background);
+font-size:20px}
+.Cap,.Bulb,.tv{font-size:13px}
+.Bulb{margin-top:14px;
+margin-left:-20px}
+.Cap{margin-left:15px}
+.tv{margin-top:13px;
+margin-left:6px}
+.Volume{color:var(--background);}
+
+.Vol{background:rgb(217, 255, 217);
+width:30px;
+height:30px;
+border:1px solid var(--background);
+padding-top:3px;
+padding-bottom:3px}
+.image{width:50px;
+height:50px;
+object-fit: cover;
+}
+.Ref{font-size:17px}
+.card1{height:90px}
+.card2{height:90px}
+.footer{height:70px;
+position:sticky;
+bottom:0}
+.Picture{color:rgb(0, 153, 255);}
+.Photo{width:70px;
+    font-size:5px;
+}
+.O{font-size:20px;
+background: var(--background);
+color:white;
+padding-left:4px;
+padding-right:5px;
+padding-top:3px;
+padding-bottom:3px
+}
+.Home{text-decoration: var(--background);
+color:var(--background)}
+.Home:hover{color:var(--background)}
+.Gem{font-size:22px;
+color:grey;}
+.Rewards{text-decoration: none;
+color:grey}
+.Line{font-size:22px;
+color:grey}
+.Finance{text-decoration: none;
+color:grey}
+.Card{font-size:22px;
+color:grey;}
+.Cards{text-decoration: none;
+color:grey}
+.Face{color:grey;}
+.Facee{color:grey;
+text-decoration: none;}
+.Finance:hover{color:grey}
+.Facee:hover{color:grey}
+.Cards:hover{color:grey}
+.Rewards:hover{color:grey}
+.Gem,.Line,.Card,.Face{cursor: pointer;}
+
+

@@ -1,0 +1,21 @@
+.iconn{color:black;}
+.Color{font-size:12px;
+color:var(--background);}
+.Mail{font-size:14px}
+.Email{font-size:14px;
+color:black;
+background: whitesmoke;
+border:none;
+padding-top:14px;
+padding-bottom:14px}
+.Next{background:var(--background);
+text-decoration: none;
+color:white;
+margin-top:250px;
+padding-top:15px;
+padding-bottom:15px}
+.Next:hover{color:white}
+:root{ 
+    --background:#00B875;
+    --Second:rgb(222, 238, 222);
+}

@@ -1,0 +1,125 @@
+.Financee{font-size:28px;
+font-weight:bolder
+}
+.Ridge{margin-top:14px;
+font-size:17px;
+color:grey;
+}
+.settings{ margin-top:16px;
+margin-left:30px;
+font-size:26px}
+.Aestheric{font-size:35px;
+font-weight:bolder;
+}
+.Interest{color:var(--background);
+margin-left:30px
+}
+.As{color:var(--background);
+font-size:30px;
+font-weight:bolder;
+margin-left:30px
+}
+:root{ 
+    --background:#00B875;
+    --Second:rgb(222, 238, 222);
+}
+.int{color:var(--background);
+    font-size:25px;
+    font-weight:bolder
+;
+display:none;
+}
+.interest{margin-left:150px}
+.Eye:hover{cursor: pointer;}
+.Naira{font-size:21px;
+margin-top:3px;
+font-weight:bolder;
+display:none
+}
+.Cash,.Cash1{font-size:24px}
+.Comma{font-size:25px}
+.Cashr{font-size:24px}
+.Kobo{font-size: 21px;
+    margin-top:3px}
+    .money1{color:var(--background);
+    font-weight: bolder;
+    }
+    .Cash1{font-weight:bolder;
+    display:none
+    }
+.money{font-weight: bolder;
+  }
+  .Star{font-size:30px;
+font-weight:bolder
+}
+
+.Wallet{background:#F2FBF7;
+border-radius:10px;
+
+}
+.All_cards{margin-top:-30px}
+.Ow{display:none}
+.Wal{display:none}
+.Aza,.Aza1{font-size:22px;
+font-weight:bolder
+}
+.Block{display:block}
+.Wal,.Ow{font-weight:bold}
+.Purple{background:#F4F3FF;
+    border-radius:17px;}
+.Target{background:#F8F8FA;
+border-radius:17px;}
+.Terest{font-size:15px;
+font-weight:bold}
+.Safebox{background:#F8F8FA;
+    border-radius:10px;}
+.Fixed{background:#F8F8FA;
+    border-radius:17px;}
+.Spend,.Report{background:#F8F8FA;
+    border-radius:17px;}
+    .Report{background:#F8F8FA;
+        border-radius:17px;
+        width:210px;
+        height:200px
+    }
+    #Permanent_Footer{background:white;
+    }
+    .footer{position:fixed;
+        top:660px;
+        background:white;
+        width:100%
+    }
+
+    .Home{text-decoration: var(--background);
+        color:grey}
+        .Home:hover{color:grey}
+        .Gem{font-size:26px;
+        color:grey}
+        .Rewards{text-decoration: none;
+        color:grey}
+        .Line{font-size:26px;
+        color:var(--background)}
+        .Finance{text-decoration: none;
+        color:var(--background)}
+        .Card{font-size:26px;
+        color:grey;}
+        .Cards{text-decoration: none;
+        color:grey}
+        .Face{color:grey;}
+        .Facee{color:grey;
+        text-decoration: none;}
+        .Finance:hover{color:grey}
+        .Facee:hover{color:grey}
+        .Cards:hover{color:grey}
+        .Rewards:hover{color:grey}
+        .Gem,.Line,.Card,.Face{cursor: pointer;}
+        .me{font-size:26px}
+        .O{font-size:20px;
+            color:grey
+            }
+            .Bo{border:2px solid grey;
+
+                width:35px;
+                padding-top:3px;
+                padding-bottom:3px;
+            }
